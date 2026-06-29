@@ -52,55 +52,48 @@ public:
         "Build. Learn. Improve. Repeat.";
 };
 ```
+## 🛠️ Tech Stack
 
-# 🚀 Tech Stack
+### 💻 Languages
 
-### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,dart,kotlin,mysql" />
+</p>
 
-- C++
-- Python
-- JavaScript
-- SQL
-- Dart
-- Kotlin
+### 🌐 Web Development
 
-### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
 
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+### 📱 Mobile Development
 
-### Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
-- Flutter
-- Firebase
+### 🤖 AI & Generative AI
 
-### AI & LLM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Hugging Face
-- OpenAI API
-- Groq API
-- Large Language Models (LLMs)
+<p align="left">
+  🧠 <b>LLMs</b> • <b>RAG</b> • <b>LangChain</b> • <b>Hugging Face</b> • <b>OpenAI API</b> • <b>Groq API</b>
+</p>
 
-### Tools
+### ⚙️ Tools & Platforms
 
-- Git
-- GitHub
-- Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
 
-### Competitive Programming
+### 🧩 Competitive Programming
 
-- Data Structures & Algorithms
-- LeetCode
-- GeeksforGeeks
+<p align="left">
+  <b>Data Structures & Algorithms</b> • <b>LeetCode</b> • <b>GeeksforGeeks</b>
+</p>
 
----
 
 # 🌟 Featured Projects
 
