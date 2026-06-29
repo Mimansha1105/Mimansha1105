@@ -1,59 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mimansha Mishra</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mimansha Mishra
+</h1>
+
+<h3 align="center">
+  <code>Competitive Programmer</code> •
+  <code>Full Stack Developer</code> •
+  <code>AI & GenAI Enthusiast</code>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Competitive+Programmer" />
+  💡 Crafting scalable web applications, exploring Generative AI, and solving challenging algorithmic problems.
 </p>
 
 <p align="center">
-Building scalable web applications, AI-powered products, and solving algorithmic challenges.
+  <img src="https://komarev.com/ghpvc/?username=Mimansha1105&label=Profile%20Views&color=ec4899&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mimansha1105?label=Followers&style=for-the-badge&color=ec4899" />
+  <img src="https://img.shields.io/github/stars/Mimansha1105?affiliations=OWNER&style=for-the-badge&color=ec4899" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+---
+
+## 👩🏻‍💻 About Me
 
 ```cpp
 class MimanshaMishra {
 
 public:
 
-    string college = "CUSAT";
+    string university = "CUSAT";
     string degree = "B.Tech Information Technology";
     double cgpa = 9.45;
 
-    vector<string> skills = {
+    vector<string> interests = {
         "Full Stack Development",
         "Generative AI",
-        "RAG",
+        "System Design",
         "Competitive Programming"
     };
 
-    vector<string> techStack = {
-        "C++",
-        "Python",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "SQL",
-        "Flutter",
-        "Firebase",
-        "Git",
-        "Linux"
+    vector<string> currentlyLearning = {
+        "AI Agents",
+        "LangGraph",
+        "Advanced Backend",
+        "Cloud"
     };
 
-    vector<string> ai = {
-        "LangChain",
-        "LLMs",
-        "OpenAI",
-        "Groq",
-        "Hugging Face",
-        "RAG"
-    };
-
-    string motto = "Build. Learn. Ship. Repeat.";
+    string motto =
+        "Build. Learn. Improve. Repeat.";
 };
+```
 ```
 
 ---
