@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mimansha Mishra</h1>
 
-<h3 align="center">
-Full Stack Developer • AI Engineer • Competitive Programmer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Competitive+Programmer" />
+</p>
 
 <p align="center">
 Building scalable web applications, AI-powered products, and solving algorithmic challenges.
