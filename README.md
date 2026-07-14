@@ -100,9 +100,6 @@ public:
 ### 🌍 Wanderlust
 Airbnb-inspired MERN travel booking platform with authentication, image uploads, reviews, and maps.
 
-### 🤖 RepoLens
-AI-powered repository understanding tool that generates dependency graphs and answers questions about any GitHub repository.
-
 ### 💬 QuickAsk AI
 A chatbot powered by LangChain and Groq that supports conversational question answering.
 
