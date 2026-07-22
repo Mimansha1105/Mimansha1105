@@ -88,11 +88,12 @@ public:
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
-### 🧩 Competitive Programming
+## 🏆 Competitive Programming
 
-<p align="left">
-  <b>Data Structures & Algorithms</b> • <b>LeetCode</b> • <b>GeeksforGeeks</b>
-</p>
+- 🏅 **LeetCode Contest Rating:** **1729** 
+- 🥇 **Highest Global Rank:** **1786**
+- 📈 Solved **350+ DSA Problems**
+- 💻 Active on **LeetCode**, **GeeksforGeeks**, and **CodingNinjas**
 
 
 # 🌟 Featured Projects
