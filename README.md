@@ -13,7 +13,7 @@
 <p align="center">
 🎓 <b>B.Tech Information Technology</b> @ CUSAT &nbsp;•&nbsp;
 📚 <b>CGPA:</b> 9.45 &nbsp;•&nbsp;
-🏅 <b>LeetCode:</b> Rating 1729 (Top 11%)
+🏅 <b>LeetCode Max:</b> Rating 1729 
 </p>
 
 ---
