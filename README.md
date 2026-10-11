@@ -12,8 +12,8 @@
 
 <p align="center">
 🎓 <b>B.Tech Information Technology</b> @ CUSAT &nbsp;•&nbsp;
-📚 <b>CGPA:</b> 9.45 &nbsp;•&nbsp;
-🏅 <b>LeetCode Max:</b> Rating 1729 
+📚 <b>CGPA:</b> 9.52 &nbsp;•&nbsp;
+🏅 <b>LeetCode Max:</b> Rating 1786
 </p>
 
 ---
@@ -93,7 +93,7 @@ public:
 
 - 🏅 **LeetCode Contest Rating:** **1729** 
 - 🥇 **Highest Global Rank:** **1786**
-- 📈 Solved **350+ DSA Problems**
+- 📈 Solved **500+ DSA Problems**
 - 💻 Active on **LeetCode**, **GeeksforGeeks**, and **CodingNinjas**
 
 
